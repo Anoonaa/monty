@@ -1,6 +1,5 @@
 The Monty language is a programming language designed to bridge the gap between scripting and programming languages
 
-![tetris](https://github.com/Anoonaa/monty/assets/122968120/e6e195ad-c436-4fa2-b48c-770d46dd9c7e)
 
 It is intended to be easy to use like a scripting language while offering the capabilities and structure of a programming language. Monty is used with a specific interpreter that reads Monty bytecode files and executes commands accordingly, managing data structures like stacks and queues (LIFO and FIFO).
 
