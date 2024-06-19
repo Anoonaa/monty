@@ -29,35 +29,12 @@ $
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
  Run the interpreter:
 
 ```bash
 
 $ ./monty [file name].m
-2
-1
-0
-2
-1
-$
+
 ```
 * output is printed on stdout
 * Any error message is printed on stderr
