@@ -27,7 +27,7 @@ $
 
 
 
-![gif](https://github.com/Anoonaa/monty/assets/122968120/af21a616-16b3-482e-accc-0b6d4784f0a1)
+
 
 
 
