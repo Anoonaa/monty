@@ -1,7 +1,9 @@
 #                                                           Monty Bytecode Interpreter 
-* This the Repo for my Monty Bytecode interpreter made for the ALX Project 0x19. C - Stacks, Queues - LIFO, FIFO
+----
+> This the Repo for my Monty Bytecode interpreter made for the ALX Project 0x19. C - Stacks, Queues - LIFO, FIFO
 
 The Monty language is a programming language designed to bridge the gap between scripting and programming languages
+![tetris](https://github.com/Anoonaa/monty/assets/122968120/0e5bec82-f3fd-471b-8881-2f4873afbcfc)
 
 
 It is intended to be easy to use like a scripting language while offering the capabilities and structure of a programming language. Monty is used with a specific interpreter that reads Monty bytecode files and executes commands accordingly, managing data structures like stacks and queues (LIFO and FIFO).
